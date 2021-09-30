@@ -31,7 +31,7 @@
 <div align="center">
   <h1>Social Midia</h1>
 </div>
-  
+
 <div align="center">
   <a href="mailto:gf36122@gmail.com" target="_blank"><img height="30" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/profile.php?id=100002757151981" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
