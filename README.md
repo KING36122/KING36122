@@ -1,14 +1,28 @@
-<div align="center">
-  <h1>Hi, I'm Gabriel more popularly known as King 👋</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50b3cf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50b3cf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Ferreira;I'm+22+years+old;I'm+from+Brasil,+AM;I+study+Software+Engeneering+at+ICET-UFAM;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KING36122&show_icons=true&count_private=true&hide_border=true&title_color=50b3cf&icon_color=ffd700&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Ferreira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING36122&layout=compact&hide_border=true&title_color=50b3cf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-            
-<div align="center">
-    <a href="https://github.com/KING36122">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=KING36122&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"><br>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING36122&layout=compact&langs_count=16&theme=dark&hide_border=true">
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KING36122&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KING36122&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+<a href="https://www.instagram.com/dev.k1ng/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
   
-<div align="center">
+  
+ <div align="center">
   <h1>Languages and Technologies</h1>
 </div>
   
@@ -36,6 +50,37 @@
   <a href="https://www.facebook.com/profile.php?id=100002757151981" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gabriel_f.f/" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div> 
+  
+
+<!-- ### Main skills:
+![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=dd4b25&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=254bdd&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=0D1117)&nbsp; 
+
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+### Other Knowledge:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp; -->
+  
+<!-- ### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; -->
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KING36122}/count.svg" /></p> 
+<br></div>
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50b3cf&height=120&section=footer"/>
 
 #
 <div align="center">
